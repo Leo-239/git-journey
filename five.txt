@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 five
 =======
 fiver
+>>>>>>> testBranch
+=======
+five 5
 >>>>>>> testBranch
